@@ -1,0 +1,18 @@
+@media only screen and (max-width: 550px){
+    .dash{
+        background-color: #000000d0;
+        height: 450px;
+        width: 300px;   
+        border-radius: 3%;
+        padding: 12% 4%;
+    }
+}
+@media only screen and (max-width: 350px){
+    .dash{
+        background-color: #000000d0;
+        height: 450px;
+        width: 295px;   
+        border-radius: 3%;
+        padding: 16% 5%;
+    }
+}
